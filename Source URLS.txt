@@ -1,0 +1,9 @@
+https://enlear.academy/how-to-use-aws-parameter-store-39a123f1c57a
+
+https://codeal.medium.com/spring-boot-configuration-from-aws-parameter-store-9a94ac0f0f70
+
+https://dev.to/longngo0924/aws-system-manager-integrate-spring-boot-version-3-with-parameter-store-3me3
+
+https://ashoksubburaj.medium.com/spring-boot-with-aws-parameter-store-d94368fef55c
+
+https://zhangran1.medium.com/spring-boot-with-aws-parameter-store-and-aws-secret-manager-a45131bf9ac8
